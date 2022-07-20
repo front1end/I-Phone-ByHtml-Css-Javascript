@@ -145,12 +145,3 @@ Well, that's about all! Make sure to let me know any comments, suggestions, or q
 | -> Click the home indicator on the bottom and type in a password to go to home
 | -> Click the camera icon for camera
 | -> Click the torch icon for torch**
-
-# Licence
-
-MIT LICENCE
-Read `Licence` document for more details
-
-# Bye! 👋
-
-HOPE U LIKE THIS PROJECT PLEASE! IF YOU ARE USING THIS CODE PLEASE GIVE **HAMZA ZAIDI** SOME CREDITS BY LIKE & GIVE A HEART!!! 😃👍💛
